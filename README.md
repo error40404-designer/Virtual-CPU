@@ -1,5 +1,4 @@
-# HTR OS Simulator
-
+#vCPU computer behaviour and intergration simulator
 HTR OS Simulator is a modular operating system simulation written in C++. It is designed to emulate the core components of a computer system, including a CPU, memory systems, storage layers, networking, and a command-line terminal interface.
 
 This project focuses on understanding how low-level systems interact, while maintaining a structured and extensible codebase suitable for further development.
