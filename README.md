@@ -110,6 +110,8 @@ Profiles acknowledge the Licese moving foreword with veiwing or interacting with
 
 ## Build Instructions
 
+ contact me at:error40404.github@gmail.com
+ 
 ### Requirements
 - C++ compiler (G++ recommended)
 - MSYS2 / MinGW or equivalent environment
@@ -118,5 +120,4 @@ Profiles acknowledge the Licese moving foreword with veiwing or interacting with
 
 ```bash
 g++ *.cpp -o vCPU -std=c++17
-
 
